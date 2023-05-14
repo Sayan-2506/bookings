@@ -1,0 +1,2 @@
+go mod init github.com/Sayan-2506/bookings
+ls -la (проверка папок для .gitignore)
