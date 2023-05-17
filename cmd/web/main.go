@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Sayan-2506/bookings/pkg/config"
-	"github.com/Sayan-2506/bookings/pkg/handlers"
-	"github.com/Sayan-2506/bookings/pkg/render"
+	"github.com/Sayan-2506/bookings/internal/config"
+	"github.com/Sayan-2506/bookings/internal/handlers"
+	"github.com/Sayan-2506/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
